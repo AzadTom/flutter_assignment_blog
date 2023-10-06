@@ -5,6 +5,12 @@
 ## BlogExplorer
 This Project is based on Flutter& Dart which is cross platform technology and This  projects uses  rest API  using http package with Home screen & Details and Favouritescren
 
+
+
+## How I Built it?
+
+ First of all i dont know about flutter but project is in flutter so i dont want to miss this oppurnity so what i did so i learnt it   so i gave entire day to learn it & next day started building project in this process| (first -> Dart -> Flutter-> Statemangement-> Http -> Async&await -> End )
+
 ## What I used in this Project 
 * Flutter&Dartand Asynchronus programing
 * LayoutBuilder
